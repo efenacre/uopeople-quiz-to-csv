@@ -1,6 +1,6 @@
-# SelfQuiz Scraping
+# uopeople-quiz-to-csv
 
-**SelfQuiz Scraping** is a Python utility that automatically extracts and aggregates quiz data from multiple **UoPeople (Moodle-based)** quiz result HTML files.  
+**uopeople-quiz-to-csv** is a Python utility that automatically extracts and aggregates quiz data from multiple **UoPeople (Moodle-based)** quiz result HTML files.  
 When you place your quiz HTML files into the `html/` folder and run the script, it will generate a unified **`quiz.csv`** and **`quiz.json`** file containing all questions, options, and correct answers.
 
 ## Purpose
@@ -70,3 +70,4 @@ your-repo/
    quiz.json
    quiz.csv
    ```
+
